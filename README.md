@@ -1,2 +1,2 @@
 # FlashCard
-bom está não pode será sei
+bom está aulra será sei
